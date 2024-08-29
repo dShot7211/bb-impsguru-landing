@@ -1,0 +1,277 @@
+{
+  "project": {
+    "title": "BiggPay",
+    "company_id": "4782",
+    "description": "Transforming Payments, with Innovation!",
+    "hero_description": "A unique and powerful software suite to transform the way you work. Designed for businesses of all sizes, built by a company that values your privacy.",
+    "version": "0.001"
+  },
+  "about": [
+    {
+      "id": "1",
+      "title": "Focus on members",
+      "description": "We are in this to delight our members. We maintain constant communication to understand their needs and wants."
+    },
+    {
+      "id": "2",
+      "title": "Take ownership",
+      "description": "We are passionate and proactive. We take ownership and prioritize the long term, not just our team or task."
+    },
+    {
+      "id": "3",
+      "title": "Get stuff done",
+      "description": "Time and resources are a constraint. We can only win if we are faster, more effective, and more agile than others."
+    },
+    {
+      "id": "4",
+      "title": "Prioritize data",
+      "description": "We are humble about our opinions and use data across our teams to make better decisions. We have deep respect for the security & privacy of members."
+    },
+    {
+      "id": "5",
+      "title": "Enjoy the journey",
+      "description": "We believe we can do our best work by supporting each other and seeking together to make our work engaging, fun, and enjoyable."
+    },
+    {
+      "id": "6",
+      "title": "Support personal growth",
+      "description": "We are committed to using our experience at work to support our own and each other’s personal growth journeys."
+    }
+  ],
+  "service": {
+    "title": "BiggPay",
+    "description": "Transforming Payments, with Innovation!",
+    "hero_description": "A unique and powerful software suite to transform the way you work. Designed for businesses of all sizes, built by a company that values your privacy.",
+    "list": []
+  },
+  "contact": {
+    "hero": [
+      {
+        "icon": "flat-color-icons:online-support",
+        "description": "Looking for a demo, or have questions about our products and pricing?",
+        "link": "support@gmail.com"
+      },
+      {
+        "icon": "flat-color-icons:online-support",
+        "description": "Looking for a demo, or have questions about our products and pricing?",
+        "link": "support@gmail.com"
+      },
+      {
+        "icon": "flat-color-icons:online-support",
+        "description": "Looking for a demo, or have questions about our products and pricing?",
+        "link": "support@gmail.com"
+      },
+      {
+        "icon": "flat-color-icons:online-support",
+        "description": "Looking for a demo, or have questions about our products and pricing?",
+        "link": "support@gmail.com"
+      }
+    ]
+  },
+  "ourpartner": {
+    "hero": {
+      "partner_main": "/assets/illustrations/partner_main-character.png",
+      "partner_city": "/assets/illustrations/partner_buildings.webp",
+      "sub_title": "Doing great things together!",
+      "title": "BiggPay Network & Partner program",
+      "intro": "Join the BiggPay Network & Expand your Distributor Business & Earn Extra Income. BiggPay has always been Vocal for the Local shopkeepers. Through BiggPay, more than 4,00,000 retailers have served around 3 crore unique customers in 2,300+ cities. BiggPay has increased retailers monthly earning as well as customer's footfall."
+    },
+    "why_partner": [
+      {
+        "title": "Why become BiggPay Retailer ?",
+        "list": [
+          {
+            "icon": "/assets/illustrations/partner_why.jpg",
+            "title": "BiggPay for Retails",
+            "intro": "BiggPay has always been Vocal for the Local shopkeepers. Through BiggPay, more than 4,00,000 retailers have served around 3 crore unique customers in 2,300+ cities. BiggPay has increased retailers monthly earning as well as customer's footfall.",
+            "grid_direction": "row-reverse"
+          },
+          {
+            "icon": "/assets/illustrations/partner_why.jpg",
+            "title": "Become a true solution provider",
+            "intro": "Become Aatma nirbhar Dukaandar and earn Rs.16,000 extra every month. Our Platform is Easy, Fast & Secure to use.",
+            "grid_direction": "row"
+          },
+          {
+            "icon": "/assets/illustrations/partner_why.jpg",
+            "title": "Free of cost services",
+            "intro": "No charges to use BiggPay Service. Earn token on every transaction, which helps in boosting their earnings.",
+            "grid_direction": "row-reverse"
+          }
+        ]
+      },
+      {
+        "title": "Why become BiggPay Distributor ?",
+        "list": [
+          {
+            "icon": "/assets/illustrations/partner_why.jpg",
+            "title": "BiggPay for Distributors",
+            "intro": "We at BiggPay intend to improve our distributors earning potential by enabling them to grow their business and make the best out of their retail network. It will help you make your daily business easy and effective.",
+            "grid_direction": "row-reverse"
+          }
+        ]
+      }
+    ]
+  },
+  "ourservices": {
+    "hero": {
+      "services_main": "/assets/illustrations/partner_main-character.png",
+      "services_sub": "/assets/illustrations/partner_buildings.webp",
+      "sub_title": "Expand your business with our Services!",
+      "title": "All the services you need to run your business",
+      "intro": "A unique and powerful software suite to transform the way you work. Designed for businesses of all sizes, built by a company that values your privacy."
+    }
+  },
+  "services": [
+    {
+      "title": "Banking",
+      "sub_title": "Banking lorem impsum doller Banking lorem impsum doller",
+      "list": [
+        {
+          "icon": "fa6-solid:money-bill-transfer",
+          "title": "Money Transfer",
+          "intro": "Banking lorem impsum doller Banking lorem",
+          "link": "/auth/login",
+          "bgcolor": "#E9F9F2",
+          "extra": "featured"
+        },
+        {
+          "icon": "fa6-solid:money-bill-transfer",
+          "title": "Express Transfer",
+          "intro": "Banking lorem Banking lorem impsum doller",
+          "link": "/auth/login",
+          "bgcolor": "#EFF5FA",
+          "extra": "most used"
+        },
+        {
+          "icon": "fa6-solid:money-bill-transfer",
+          "title": "Super Transfer",
+          "intro": "Banking lorem Banking lorem impsum doller",
+          "link": "/auth/login",
+          "bgcolor": "#F4F5E1"
+        },
+        {
+          "icon": "fa6-solid:money-bill-transfer",
+          "title": "AePS",
+          "intro": "Banking lorem Banking lorem impsum doller",
+          "link": "/auth/login",
+          "bgcolor": "#F4F5E1"
+        },
+        {
+          "icon": "fa6-solid:money-bill-transfer",
+          "title": "Nepal Transfer",
+          "intro": "Banking lorem Banking lorem impsum doller",
+          "link": "/auth/login",
+          "bgcolor": "#F4F5E1"
+        },
+        {
+          "icon": "fa6-solid:money-bill-transfer",
+          "title": "CMS",
+          "intro": "Banking lorem Banking lorem impsum doller",
+          "link": "/auth/login",
+          "bgcolor": "#F4F5E1"
+        },
+        {
+          "icon": "fa6-solid:money-bill-transfer",
+          "title": "UPI",
+          "intro": "Banking lorem Banking lorem impsum doller",
+          "link": "/auth/login",
+          "bgcolor": "#F4F5E1"
+        }
+      ]
+    },
+    {
+      "title": "Bill Payments",
+      "sub_title": "Banking lorem impsum doller Banking lorem impsum doller",
+      "list": [
+        {
+          "icon": "fa6-solid:money-bill-transfer",
+          "title": "Mobile Recharge",
+          "intro": "Banking lorem impsum doller Banking lorem",
+          "link": "/auth/login",
+          "bgcolor": "#E9F9F2",
+          "extra": "featured"
+        },
+        {
+          "icon": "fa6-solid:money-bill-transfer",
+          "title": "DTH Recharge",
+          "intro": "Banking lorem Banking lorem impsum doller",
+          "link": "/auth/login",
+          "bgcolor": "#EFF5FA",
+          "extra": "most used"
+        },
+        {
+          "icon": "fa6-solid:money-bill-transfer",
+          "title": "Electricity",
+          "intro": "Banking lorem Banking lorem impsum doller",
+          "link": "/auth/login",
+          "bgcolor": "#F4F5E1"
+        },
+        {
+          "icon": "fa6-solid:money-bill-transfer",
+          "title": "Credit Card",
+          "intro": "Banking lorem Banking lorem impsum doller",
+          "link": "/auth/login",
+          "bgcolor": "#F4F5E1"
+        },
+        {
+          "icon": "fa6-solid:money-bill-transfer",
+          "title": "Gas Bill",
+          "intro": "Banking lorem Banking lorem impsum doller",
+          "link": "/auth/login",
+          "bgcolor": "#F4F5E1"
+        }
+      ]
+    },
+    {
+      "title": "BBPS",
+      "sub_title": "Banking lorem impsum doller Banking lorem impsum doller",
+      "list": [
+        {
+          "icon": "fa6-solid:money-bill-transfer",
+          "title": "Electricity",
+          "intro": "Banking lorem impsum doller Banking lorem",
+          "link": "/auth/login",
+          "bgcolor": "#E9F9F2",
+          "extra": "featured"
+        },
+        {
+          "icon": "fa6-solid:money-bill-transfer",
+          "title": "FASTag",
+          "intro": "Banking lorem Banking lorem impsum doller",
+          "link": "/auth/login",
+          "bgcolor": "#EFF5FA",
+          "extra": "most used"
+        },
+        {
+          "icon": "fa6-solid:money-bill-transfer",
+          "title": "Gas Cylinder",
+          "intro": "Banking lorem Banking lorem impsum doller",
+          "link": "/auth/login",
+          "bgcolor": "#F4F5E1"
+        },
+        {
+          "icon": "fa6-solid:money-bill-transfer",
+          "title": "Mobile Postpaid",
+          "intro": "Banking lorem Banking lorem impsum doller",
+          "link": "/auth/login",
+          "bgcolor": "#F4F5E1"
+        },
+        {
+          "icon": "fa6-solid:money-bill-transfer",
+          "title": "Mobile Prepaid",
+          "intro": "Banking lorem Banking lorem impsum doller",
+          "link": "/auth/login",
+          "bgcolor": "#F4F5E1"
+        },
+        {
+          "icon": "fa6-solid:money-bill-transfer",
+          "title": "All",
+          "intro": "Banking lorem Banking lorem impsum doller",
+          "link": "/auth/login",
+          "bgcolor": "#F4F5E1"
+        }
+      ]
+    }
+  ]
+}
