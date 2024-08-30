@@ -45,8 +45,8 @@ import ThemeProvider from '../theme';
 import ThemeLocalization from '../locales';
 // components
 import { StyledChart } from '../components/chart';
-import ProgressBar from '../components/progress-bar';
-import SnackbarProvider from '../components/snackbar';
+import ProgressBar from 'src/components/progress-bar';
+import SnackbarProvider from 'src/components/snackbar';
 import { MotionLazyContainer } from '../components/animate';
 import { ThemeSettings, SettingsProvider } from '../components/settings';
 
