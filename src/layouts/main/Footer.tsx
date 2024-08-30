@@ -10,6 +10,7 @@ import Iconify from '../../components/iconify';
 const LINKS = [
   {
     headline: `${process.env.REACT_APP_PROJECT_TITLE}`,
+    // headline: "IMPS GURU",
     children: [
       { name: 'About us', href: PATH_PAGE.about },
       { name: 'Contact us', href: PATH_PAGE.contact },
@@ -26,7 +27,7 @@ const LINKS = [
   {
     headline: 'Contact',
     children: [
-      { name: 'connect@biggbrains.com', href: 'mailto:connect@biggbrains.com' },
+      { name: 'impsguru@gmail.com', href: 'mailto:impsguru@gmail.com' },
       { name: 'Flat No. 8, Pocket 6, Sector 22, Rohini, Delhi, 110086', href: '#' },
     ],
   },

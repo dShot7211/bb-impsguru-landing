@@ -82,11 +82,13 @@ export default function Header() {
             variant="contained"
             rel="noopener"
             // href={PATH_AUTH.login}
-            onClick={() => push(PATH_AUTH.login)}
+            onClick={() => window.location.href = 'https://beta.impsguru.com/login'}
+            
             sx={{
               fontSize: isDesktop ? '' : '10px',
               py: isDesktop ? '' : '4px',
               px: isDesktop ? '' : '10px',
+              backgroundColor:'#0669f7'
             }}
           >
             Login Now

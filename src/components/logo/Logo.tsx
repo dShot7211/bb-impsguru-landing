@@ -14,7 +14,7 @@ const Logo = forwardRef<HTMLDivElement, LogoProps>(
     // OR using local (public folder)
     // -------------------------------------------------------
     const logo = (
-      <Box component="img" src="/logo/logo_full.png" sx={{ cursor: 'pointer', ...sx }} />
+      <Box component="img" src="/logo/logo.png" sx={{ cursor: 'pointer', ...sx,width:"25vh" }} />
     );
 
     const logoSvg = (

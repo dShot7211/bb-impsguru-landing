@@ -167,12 +167,15 @@ function BillingCardComponent() {
               </Typography>
               <Button
                 variant="contained"
-                onClick={() => push(PATH_DASHBOARD.admin.root)}
+                onClick={() => window.location.href = 'https://beta.impsguru.com/login'}
+
+                // onClick={() => push(PATH_DASHBOARD.admin.root)}
                 sx={{
                   width: '200px',
                   textAlign: 'left',
                   borderRadius: '2px',
                   mt: 1,
+                  backgroundColor:'#0669f7'
                 }}
                 endIcon={<Iconify icon="line-md:chevron-right" />}
               >

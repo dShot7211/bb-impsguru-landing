@@ -211,9 +211,11 @@ function Description() {
             size="large"
             variant="outlined"
             startIcon={<Iconify icon="eva:external-link-fill" width={24} />}
-            onClick={() => {
-              push(PATH_AUTH.login);
-            }}
+            
+            // onClick={() => {
+            //   push(PATH_AUTH.login);
+            // }}
+            onClick={() => window.location.href = 'https://beta.impsguru.com/login'}
             sx={{ borderColor: 'text.primary' }}
           >
             GET STARTED FOR FREE

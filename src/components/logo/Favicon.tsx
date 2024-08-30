@@ -14,7 +14,7 @@ const Favicon = forwardRef<HTMLDivElement, FaviconProps>(
     // OR using local (public folder)
     // -------------------------------------------------------
     const favicon = (
-      <Box component="img" src="/favicon/favicon.svg" sx={{ cursor: 'pointer', ...sx }} />
+      <Box component="img" src="/favicon/impsguru.ico" sx={{ cursor: 'pointer', ...sx ,width:"30vh"}} />
     );
 
     const faviconSvg = (

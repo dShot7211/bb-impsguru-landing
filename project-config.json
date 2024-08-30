@@ -1,6 +1,6 @@
 {
   "project": {
-    "title": "BiggPay",
+    "title": "IMPSGURU",
     "company_id": "4782",
     "description": "Transforming Payments, with Innovation!",
     "hero_description": "A unique and powerful software suite to transform the way you work. Designed for businesses of all sizes, built by a company that values your privacy.",
@@ -39,7 +39,7 @@
     }
   ],
   "service": {
-    "title": "BiggPay",
+    "title": "IMPS GURU",
     "description": "Transforming Payments, with Innovation!",
     "hero_description": "A unique and powerful software suite to transform the way you work. Designed for businesses of all sizes, built by a company that values your privacy.",
     "list": []
@@ -49,22 +49,22 @@
       {
         "icon": "flat-color-icons:online-support",
         "description": "Looking for a demo, or have questions about our products and pricing?",
-        "link": "support@gmail.com"
+        "link": "impsguru@gmail.com"
       },
       {
         "icon": "flat-color-icons:online-support",
         "description": "Looking for a demo, or have questions about our products and pricing?",
-        "link": "support@gmail.com"
+        "link": "impsguru@gmail.com"
       },
       {
         "icon": "flat-color-icons:online-support",
         "description": "Looking for a demo, or have questions about our products and pricing?",
-        "link": "support@gmail.com"
+        "link": "impsguru@gmail.com"
       },
       {
         "icon": "flat-color-icons:online-support",
         "description": "Looking for a demo, or have questions about our products and pricing?",
-        "link": "support@gmail.com"
+        "link": "impsguru@gmail.com"
       }
     ]
   },
@@ -73,17 +73,17 @@
       "partner_main": "/assets/illustrations/partner_main-character.png",
       "partner_city": "/assets/illustrations/partner_buildings.webp",
       "sub_title": "Doing great things together!",
-      "title": "BiggPay Network & Partner program",
-      "intro": "Join the BiggPay Network & Expand your Distributor Business & Earn Extra Income. BiggPay has always been Vocal for the Local shopkeepers. Through BiggPay, more than 4,00,000 retailers have served around 3 crore unique customers in 2,300+ cities. BiggPay has increased retailers monthly earning as well as customer's footfall."
+      "title": "IMPS GURU Network & Partner program",
+      "intro": "Join the IMPS GURU Network & Expand your Distributor Business & Earn Extra Income. IMPS GURU has always been Vocal for the Local shopkeepers. Through IMPS GURU, more than 4,00,000 retailers have served around 3 crore unique customers in 2,300+ cities. IMPS GURU has increased retailers monthly earning as well as customer's footfall."
     },
     "why_partner": [
       {
-        "title": "Why become BiggPay Retailer ?",
+        "title": "Why become IMPS GURU Retailer ?",
         "list": [
           {
             "icon": "/assets/illustrations/partner_why.jpg",
-            "title": "BiggPay for Retails",
-            "intro": "BiggPay has always been Vocal for the Local shopkeepers. Through BiggPay, more than 4,00,000 retailers have served around 3 crore unique customers in 2,300+ cities. BiggPay has increased retailers monthly earning as well as customer's footfall.",
+            "title": "IMPS GURU for Retails",
+            "intro": "IMPS GURU has always been Vocal for the Local shopkeepers. Through IMPS GURU, more than 4,00,000 retailers have served around 3 crore unique customers in 2,300+ cities. IMPS GURU has increased retailers monthly earning as well as customer's footfall.",
             "grid_direction": "row-reverse"
           },
           {
@@ -95,18 +95,18 @@
           {
             "icon": "/assets/illustrations/partner_why.jpg",
             "title": "Free of cost services",
-            "intro": "No charges to use BiggPay Service. Earn token on every transaction, which helps in boosting their earnings.",
+            "intro": "No charges to use IMPS GURU Service. Earn token on every transaction, which helps in boosting their earnings.",
             "grid_direction": "row-reverse"
           }
         ]
       },
       {
-        "title": "Why become BiggPay Distributor ?",
+        "title": "Why become IMPS GURU Distributor ?",
         "list": [
           {
             "icon": "/assets/illustrations/partner_why.jpg",
-            "title": "BiggPay for Distributors",
-            "intro": "We at BiggPay intend to improve our distributors earning potential by enabling them to grow their business and make the best out of their retail network. It will help you make your daily business easy and effective.",
+            "title": "IMPS GURU for Distributors",
+            "intro": "We at IMPS GURU intend to improve our distributors earning potential by enabling them to grow their business and make the best out of their retail network. It will help you make your daily business easy and effective.",
             "grid_direction": "row-reverse"
           }
         ]

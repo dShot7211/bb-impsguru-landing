@@ -39,7 +39,7 @@ export const PRIMARY = {
   lightest: '#ccecf8',
   lighter: '#89c2d9',
   light: '#61a5c2',
-  main: '#01497c',
+  main: '#0669f7',
   dark: '#013a63',
   darker: '#012a4a',
   contrastText: '#fff',

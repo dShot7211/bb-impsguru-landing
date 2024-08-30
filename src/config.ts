@@ -3,8 +3,8 @@ import projectConfig from '../project-config.json';
 // API
 // ----------------------------------------------------------------------
 
-// export const HOST_API_KEY = 'http://192.168.1.12:80/BiggpaySaas/';
-// export const HOST_API_KEY = 'https://biggpaysaas.impsguru.com/';
+// export const HOST_API_KEY = 'http://192.168.1.12:80/IMPS GURUSaas/';
+// export const HOST_API_KEY = 'https://IMPS GURUsaas.impsguru.com/';
 export const HOST_API_KEY = process.env.HOST_API_KEY || '';
 export const SECRET_KEY = process.env.ENCODING_KEY || 'dt3w3r7$#%RDCG';
 export const PROJECT_TITLE = projectConfig?.project?.title || process.env.REACT_APP_PROJECT_TITLE;

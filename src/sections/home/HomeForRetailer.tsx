@@ -137,7 +137,9 @@ function Description() {
           size="large"
           variant="outlined"
           endIcon={<Iconify icon="ic:round-arrow-right-alt" />}
-          onClick={() => push(PATH_DASHBOARD.root)}
+          // onClick={() => push(PATH_DASHBOARD.root)}
+          onClick={() => window.location.href = 'https://impsguru.com/login'}
+
           sx={{
             mt: 3,
             bgcolor: 'text.primary',

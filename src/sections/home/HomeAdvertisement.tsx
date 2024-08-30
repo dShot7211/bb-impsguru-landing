@@ -101,7 +101,8 @@ function Description() {
             color="inherit"
             size={isDesktop ? 'large' : 'small'}
             variant="contained"
-            onClick={() => push(PATH_DASHBOARD.admin.root)}
+            // onClick={() => push(PATH_DASHBOARD.admin.root)}
+            onClick={() => window.location.href = 'https://beta.impsguru.com/login'}
             sx={{
               color: 'grey.100',
               bgcolor: 'primary.main',
