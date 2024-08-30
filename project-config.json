@@ -136,7 +136,7 @@
           "extra": "featured"
         },
         {
-          "icon": "fa6-solid:money-bill-transfer",
+          "icon": "game-icons:pay-money",
           "title": "Express Transfer",
           "intro": "Banking lorem Banking lorem impsum doller",
           "link": "/auth/login",
@@ -144,35 +144,35 @@
           "extra": "most used"
         },
         {
-          "icon": "fa6-solid:money-bill-transfer",
+          "icon": "ri:money-rupee-circle-line",
           "title": "Super Transfer",
           "intro": "Banking lorem Banking lorem impsum doller",
           "link": "/auth/login",
           "bgcolor": "#F4F5E1"
         },
         {
-          "icon": "fa6-solid:money-bill-transfer",
+          "icon": "fluent-emoji-high-contrast:money-with-wings",
           "title": "AePS",
           "intro": "Banking lorem Banking lorem impsum doller",
           "link": "/auth/login",
           "bgcolor": "#F4F5E1"
         },
         {
-          "icon": "fa6-solid:money-bill-transfer",
+          "icon": "streamline:bag-rupee",
           "title": "Nepal Transfer",
           "intro": "Banking lorem Banking lorem impsum doller",
           "link": "/auth/login",
           "bgcolor": "#F4F5E1"
         },
         {
-          "icon": "fa6-solid:money-bill-transfer",
+          "icon": "emojione-monotone:money-with-wings",
           "title": "CMS",
           "intro": "Banking lorem Banking lorem impsum doller",
           "link": "/auth/login",
           "bgcolor": "#F4F5E1"
         },
         {
-          "icon": "fa6-solid:money-bill-transfer",
+          "icon": "material-symbols-light:mobile-screen-share",
           "title": "UPI",
           "intro": "Banking lorem Banking lorem impsum doller",
           "link": "/auth/login",
@@ -185,7 +185,7 @@
       "sub_title": "Banking lorem impsum doller Banking lorem impsum doller",
       "list": [
         {
-          "icon": "fa6-solid:money-bill-transfer",
+          "icon": "mage:mobile-phone",
           "title": "Mobile Recharge",
           "intro": "Banking lorem impsum doller Banking lorem",
           "link": "/auth/login",
@@ -193,7 +193,7 @@
           "extra": "featured"
         },
         {
-          "icon": "fa6-solid:money-bill-transfer",
+          "icon": "streamline:satellite-dish",
           "title": "DTH Recharge",
           "intro": "Banking lorem Banking lorem impsum doller",
           "link": "/auth/login",
@@ -201,21 +201,21 @@
           "extra": "most used"
         },
         {
-          "icon": "fa6-solid:money-bill-transfer",
+          "icon": "pepicons-pencil:electricity",
           "title": "Electricity",
           "intro": "Banking lorem Banking lorem impsum doller",
           "link": "/auth/login",
           "bgcolor": "#F4F5E1"
         },
         {
-          "icon": "fa6-solid:money-bill-transfer",
+          "icon": "nimbus:credit-card",
           "title": "Credit Card",
           "intro": "Banking lorem Banking lorem impsum doller",
           "link": "/auth/login",
           "bgcolor": "#F4F5E1"
         },
         {
-          "icon": "fa6-solid:money-bill-transfer",
+          "icon": "iconoir:gas",
           "title": "Gas Bill",
           "intro": "Banking lorem Banking lorem impsum doller",
           "link": "/auth/login",
@@ -228,7 +228,7 @@
       "sub_title": "Banking lorem impsum doller Banking lorem impsum doller",
       "list": [
         {
-          "icon": "fa6-solid:money-bill-transfer",
+          "icon": "pepicons-pencil:electricity",
           "title": "Electricity",
           "intro": "Banking lorem impsum doller Banking lorem",
           "link": "/auth/login",
@@ -236,7 +236,7 @@
           "extra": "featured"
         },
         {
-          "icon": "fa6-solid:money-bill-transfer",
+          "icon": "fluent-mdl2:car",
           "title": "FASTag",
           "intro": "Banking lorem Banking lorem impsum doller",
           "link": "/auth/login",
@@ -244,28 +244,28 @@
           "extra": "most used"
         },
         {
-          "icon": "fa6-solid:money-bill-transfer",
+          "icon": "iconoir:gas",
           "title": "Gas Cylinder",
           "intro": "Banking lorem Banking lorem impsum doller",
           "link": "/auth/login",
           "bgcolor": "#F4F5E1"
         },
         {
-          "icon": "fa6-solid:money-bill-transfer",
+          "icon": "game-icons:rotary-phone",
           "title": "Mobile Postpaid",
           "intro": "Banking lorem Banking lorem impsum doller",
           "link": "/auth/login",
           "bgcolor": "#F4F5E1"
         },
         {
-          "icon": "fa6-solid:money-bill-transfer",
+          "icon": "hugeicons:hold-phone",
           "title": "Mobile Prepaid",
           "intro": "Banking lorem Banking lorem impsum doller",
           "link": "/auth/login",
           "bgcolor": "#F4F5E1"
         },
         {
-          "icon": "fa6-solid:money-bill-transfer",
+          "icon": "ic:outline-done-all",
           "title": "All",
           "intro": "Banking lorem Banking lorem impsum doller",
           "link": "/auth/login",
