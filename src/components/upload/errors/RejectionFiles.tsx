@@ -5,7 +5,7 @@ import { Box, Paper, Typography } from '@mui/material';
 // utils
 import { fData } from '../../../utils/formatNumber';
 //
-import { fileData } from '../../file-thumbnail';
+import { fileData } from 'src/components/file-thumbnail';
 
 // ----------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ export default function RejectionFiles({ fileRejections }: Props) {
   if (!fileRejections.length) {
     return null;
   }
-
+ 
   return (
     <Paper
       variant="outlined"

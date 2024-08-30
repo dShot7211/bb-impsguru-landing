@@ -10,7 +10,7 @@ import { PATH_DASHBOARD, PATH_AUTH } from '../../../routes/paths';
 import { useAuthContext } from '../../../auth/useAuthContext';
 // components
 import { CustomAvatar } from '../../../components/custom-avatar';
-import { useSnackbar } from '../../../components/snackbar';
+import { useSnackbar } from 'notistack';
 import MenuPopover from '../../../components/menu-popover';
 import { IconButtonAnimate } from '../../../components/animate';
 import { postJsonData } from 'src/utils/axiosController';
