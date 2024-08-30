@@ -132,6 +132,7 @@ const loginbutton = (
         backgroundColor: (theme) => theme.palette.common.black,
         borderRadius: '2px',
       }}
+      onClick={() => window.location.href = 'https://beta.impsguru.com/login'}
       endIcon={<Iconify icon="ic:round-arrow-right-alt" />}
     >
       Login now

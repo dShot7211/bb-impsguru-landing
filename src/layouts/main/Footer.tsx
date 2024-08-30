@@ -20,8 +20,8 @@ const LINKS = [
   {
     headline: 'Legal',
     children: [
-      { name: 'Terms and Condition', href: '#' },
-      { name: 'Privacy Policy', href: '#' },
+      { name: 'Terms and Condition', href: 'https://impsguru.com/terms-conditions' },
+      { name: 'Privacy Policy', href: 'https://impsguru.com/privacy-policy' },
     ],
   },
   {
