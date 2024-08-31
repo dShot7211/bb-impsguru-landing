@@ -7,7 +7,7 @@ import StepLabel from '@mui/material/StepLabel';
 import StepConnector, { stepConnectorClasses } from '@mui/material/StepConnector';
 import { StepIconProps } from '@mui/material/StepIcon';
 import Iconify from 'src/components/iconify';
-import { getRegistrationSteps } from 'src/redux/my-slices/registration';
+// import { getRegistrationSteps } from 'src/redux/my-slices/registration';
 import { useDispatch } from 'src/redux/store';
 
 const ColorlibConnector = styled(StepConnector)(({ theme }) => ({
@@ -87,7 +87,7 @@ export default function OnboardingSteps() {
   const dispatch = useDispatch();
 
   useEffect(() => {
-    dispatch(getRegistrationSteps());
+    // dispatch(getRegistrationSteps());
   }, [dispatch]);
 
   return (

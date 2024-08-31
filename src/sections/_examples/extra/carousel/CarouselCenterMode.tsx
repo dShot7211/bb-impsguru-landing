@@ -118,9 +118,9 @@ function CarouselItem({ item }: { item: CarouselItemProps }) {
           }),
         }}
       >
-        <TextMaxLine variant="h4" paragraph>
+        {/* <TextMaxLine variant="h4" paragraph>
           {title}
-        </TextMaxLine>
+        </TextMaxLine> */}
 
         <Link
           color="inherit"
