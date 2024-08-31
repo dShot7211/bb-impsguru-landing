@@ -5,7 +5,7 @@ import { Box, Container, Typography } from '@mui/material';
 // layouts
 import MainLayout from '../layouts/main';
 // sections
-import { FaqsHero, FaqsCategory, FaqsList, FaqsForm } from '../sections/faqs';
+import { FaqsHero, FaqsList, FaqsForm } from '../sections/faqs';
 
 // ----------------------------------------------------------------------
 
@@ -23,7 +23,7 @@ export default function FaqsPage() {
       <FaqsHero />
 
       <Container sx={{ pt: 15, pb: 10, position: 'relative' }}>
-        <FaqsCategory />
+        {/* <FaqsCategory /> */}
 
         <Typography variant="h3" sx={{ mb: 5 }}>
           Frequently asked questions

@@ -19,7 +19,7 @@ import {
   CarouselBasic4,
   CarouselAnimation,
   CarouselThumbnail,
-  CarouselCenterMode,
+  // CarouselCenterMode,
 } from '../../../sections/_examples/extra/carousel';
 
 // ----------------------------------------------------------------------
@@ -108,7 +108,7 @@ export default function DemoCarouselsPage() {
           <Card>
             <CardHeader title="Carousel Center Mode" subheader="Customs shape & icon button" />
             <CardContent>
-              <CarouselCenterMode data={_carouselsExample} />
+              {/* <CarouselCenterMode data={_carouselsExample} /> */}
             </CardContent>
           </Card>
 
