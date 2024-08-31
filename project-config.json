@@ -125,12 +125,12 @@
   "services": [
     {
       "title": "Banking",
-      "sub_title": "Banking lorem impsum doller Banking lorem impsum doller",
+      "sub_title": "We are providing banking facilities that simplify money transfers and recharges. Our services ensure secure transactions, quick processing, and easy management, allowing users to handle their financial needs conveniently and efficiently through user-friendly platforms.",
       "list": [
         {
           "icon": "fa6-solid:money-bill-transfer",
           "title": "Money Transfer",
-          "intro": "Banking lorem impsum doller Banking lorem",
+          "intro": "We are proud to offer instant and secure payment solutions.Our customers can now perform instant money transfers through our portal, ensuring fast and reliable transactions.",
           "link": "/auth/login",
           "bgcolor": "#E9F9F2",
           "extra": "featured"
@@ -138,7 +138,7 @@
         {
           "icon": "fa6-solid:money-bill-transfer",
           "title": "Express Transfer",
-          "intro": "Banking lorem Banking lorem impsum doller",
+          "intro": "This service enables money to be transferred rapidly, often within a few hours or even minutes, compared to traditional transfer methods that may take several days.",
           "link": "/auth/login",
           "bgcolor": "#EFF5FA",
           "extra": "most used"
@@ -146,35 +146,35 @@
         {
           "icon": "fa6-solid:money-bill-transfer",
           "title": "Super Transfer",
-          "intro": "Banking lorem Banking lorem impsum doller",
+          "intro": "Service enables high-speed,high-value money transfer service that facilitates the rapid movement of large sums of money between accounts,often with additional features or higher priority.",
           "link": "/auth/login",
           "bgcolor": "#F4F5E1"
         },
         {
           "icon": "fa6-solid:money-bill-transfer",
           "title": "AePS",
-          "intro": "Banking lorem Banking lorem impsum doller",
+          "intro": "We provide AEPS facilities, allowing users to perform banking transactions like withdrawals, deposits, and balance checks easily from their mobile devices.",
           "link": "/auth/login",
           "bgcolor": "#F4F5E1"
         },
         {
           "icon": "fa6-solid:money-bill-transfer",
           "title": "Nepal Transfer",
-          "intro": "Banking lorem Banking lorem impsum doller",
+          "intro": "We offer Nepal transfer facilities, enabling users to send money quickly and securely to Nepal through a simple, convenient process.",
           "link": "/auth/login",
           "bgcolor": "#F4F5E1"
         },
         {
           "icon": "fa6-solid:money-bill-transfer",
           "title": "CMS",
-          "intro": "Banking lorem Banking lorem impsum doller",
+          "intro": "We offer cash management services, helping users easily track, manage, and control their money for better financial stability and planning.",
           "link": "/auth/login",
           "bgcolor": "#F4F5E1"
         },
         {
           "icon": "fa6-solid:money-bill-transfer",
           "title": "UPI",
-          "intro": "Banking lorem Banking lorem impsum doller",
+          "intro": "ImpsGuru brings you one more attractive option of increasing your options of accepting payments in the form of QR codes or UPI. ",
           "link": "/auth/login",
           "bgcolor": "#F4F5E1"
         }
@@ -182,12 +182,12 @@
     },
     {
       "title": "Bill Payments",
-      "sub_title": "Banking lorem impsum doller Banking lorem impsum doller",
+      "sub_title": "Bill Payments  services allows individuals to pay their bills through various methods, ensuring timely settlement of recurring charges.This services can be done via online banking, mobile apps, automated teller machines (ATMs), or in-person at payment centers.",
       "list": [
         {
           "icon": "fa6-solid:money-bill-transfer",
           "title": "Mobile Recharge",
-          "intro": "Banking lorem impsum doller Banking lorem",
+          "intro": "Earn more by doing  Mobile recharges, Utility bill payments, for your customers easily and quickly of more than 150 companies.",
           "link": "/auth/login",
           "bgcolor": "#E9F9F2",
           "extra": "featured"
@@ -195,7 +195,7 @@
         {
           "icon": "fa6-solid:money-bill-transfer",
           "title": "DTH Recharge",
-          "intro": "Banking lorem Banking lorem impsum doller",
+          "intro": "WithImpsGuru merchant app, choose from a variety of operators like Airtel DTH, Dish TV, Videocon D2h.",
           "link": "/auth/login",
           "bgcolor": "#EFF5FA",
           "extra": "most used"
@@ -203,21 +203,21 @@
         {
           "icon": "fa6-solid:money-bill-transfer",
           "title": "Electricity",
-          "intro": "Banking lorem Banking lorem impsum doller",
+          "intro": "Our electricity facilities make it easy to pay bills online. Quick, secure payments and easy account management from anywhere.",
           "link": "/auth/login",
           "bgcolor": "#F4F5E1"
         },
         {
           "icon": "fa6-solid:money-bill-transfer",
           "title": "Credit Card",
-          "intro": "Banking lorem Banking lorem impsum doller",
+          "intro": "Our credit card facilities offer secure payments, easy account management, and convenient access, making transactions simple and efficient.",
           "link": "/auth/login",
           "bgcolor": "#F4F5E1"
         },
         {
           "icon": "fa6-solid:money-bill-transfer",
           "title": "Gas Bill",
-          "intro": "Banking lorem Banking lorem impsum doller",
+          "intro": "Our gas bill facilities provide easy online payments, secure transactions, and simple management, making it convenient to handle your bills.",
           "link": "/auth/login",
           "bgcolor": "#F4F5E1"
         }
@@ -225,12 +225,12 @@
     },
     {
       "title": "BBPS",
-      "sub_title": "Banking lorem impsum doller Banking lorem impsum doller",
+      "sub_title": "BBPS simplifies paying bills by bringing many services into one platform. You can pay bills for electricity, water, and more using your bank's app, website, or at retail locations. It ensures secure and quick payments, updates your bill immediately, and provides instant confirmation, making managing your bills easy and efficient.",
       "list": [
         {
           "icon": "fa6-solid:money-bill-transfer",
           "title": "Electricity",
-          "intro": "Banking lorem impsum doller Banking lorem",
+          "intro": "We offer online electricity bill payments, letting users manage bills easily, ensuring timely payments, and avoiding interruptions from home.",
           "link": "/auth/login",
           "bgcolor": "#E9F9F2",
           "extra": "featured"
@@ -238,7 +238,7 @@
         {
           "icon": "fa6-solid:money-bill-transfer",
           "title": "FASTag",
-          "intro": "Banking lorem Banking lorem impsum doller",
+          "intro": "We provide FASTag facilities for simple, automatic toll payments and easy online account management, ensuring quick, contactless travel with no delays.",
           "link": "/auth/login",
           "bgcolor": "#EFF5FA",
           "extra": "most used"
@@ -246,28 +246,28 @@
         {
           "icon": "fa6-solid:money-bill-transfer",
           "title": "Gas Cylinder",
-          "intro": "Banking lorem Banking lorem impsum doller",
+          "intro": "Our services provide simple online ordering and delivery tracking, ensuring a steady supply and hassle-free management from the comfort of home.",
           "link": "/auth/login",
           "bgcolor": "#F4F5E1"
         },
         {
           "icon": "fa6-solid:money-bill-transfer",
           "title": "Mobile Postpaid",
-          "intro": "Banking lorem Banking lorem impsum doller",
+          "intro": "Our mobile postpaid service allows users to pay monthly, view bills online, make secure payments, and easily track and manage their usage.",
           "link": "/auth/login",
           "bgcolor": "#F4F5E1"
         },
         {
           "icon": "fa6-solid:money-bill-transfer",
           "title": "Mobile Prepaid",
-          "intro": "Banking lorem Banking lorem impsum doller",
+          "intro": "This service lets users pay in advance, with easy top-ups, balance checks, and flexible plan management, all through a simple interface.",
           "link": "/auth/login",
           "bgcolor": "#F4F5E1"
         },
         {
           "icon": "fa6-solid:money-bill-transfer",
           "title": "All",
-          "intro": "Banking lorem Banking lorem impsum doller",
+          "intro": "Gone are the days when anyone used to stand in a long queue, waiting for hours just for filling their monthly bills namely Electricity, Water, Gas, etc .",
           "link": "/auth/login",
           "bgcolor": "#F4F5E1"
         }

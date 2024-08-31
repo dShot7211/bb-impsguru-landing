@@ -108,7 +108,7 @@ export default function ServicesCard() {
                           }}
                           sx={{
                             backgroundColor: (theme) => theme.palette.common.black,
-                            borderRadius: '2px',
+                            borderRadius: '3px',
                           }}
                           endIcon={<Iconify icon="ic:round-arrow-right-alt" />}
                         >
